@@ -1,7 +1,11 @@
-# Group Project
+# Let's Joust
+A turn based 2 player battle game played on mobile devices. 
 
-This is the repository for your group project, keep it neat and well organised with sensible folder structures.
+Created using Unreal Engine.
 
-There is **no** need to create archived builds of your project or to keep any old files - everything is automatically archived for you.
+# Group members
+Group 17
 
-**Note** that these repositories are visible to anyone, so it is your chance to publically demonstrate your ability to work in a professional and considered manner.
+Alix Roden - 2nd Year Computer Games Programming (Project Lead)
+
+Jack Gilmour - 1st Year Computer Games Design
